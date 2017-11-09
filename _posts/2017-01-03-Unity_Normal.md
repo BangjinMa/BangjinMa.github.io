@@ -1,3 +1,11 @@
+---
+layout: post
+title: "法线"
+date: 2016-07-05 
+description: "Unity"
+tag: Unity  
+
+---     
 ### 法线
 #### 2D法线
 	在2D的曲线上取一个点，然后做该点的切线（tangent）,法线即是该点切线的垂线。
