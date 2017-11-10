@@ -16,7 +16,12 @@ url: "www.mabangjin.top"
 # 使用博客模板请去掉或者更换 id 
 baidu:
     id: d56e6889c3875362cbc681308c81502d  
-
+# Social
+social:
+    weibo: 
+    github: 
+    # twitter: 
+    mail: 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
 #
 #
