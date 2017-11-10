@@ -9,19 +9,18 @@ avatarDesc: unity/C++
 url: "www.mabangjin.top"
 
 
-
-
-
-# 百度统计 
-# 使用博客模板请去掉或者更换 id 
-baidu:
-    id: d56e6889c3875362cbc681308c81502d  
 # Social
 social:
     weibo: 
     github: 
     # twitter: 
-    mail: 
+    mail:
+      
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+baidu:
+    id: d56e6889c3875362cbc681308c81502d  
+
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
 #
 #
