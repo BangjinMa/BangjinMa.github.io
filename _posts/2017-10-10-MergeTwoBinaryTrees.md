@@ -3,9 +3,9 @@ layout: post
 title: "Merge Two Binary Trees"
 date: 2017-10-10
 description: "算法"
-tag: 算法  
+tag: Arithmetic
 
----   
+---
 ####Merge Two Binary Trees
 第二天
 

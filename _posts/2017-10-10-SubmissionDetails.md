@@ -3,9 +3,9 @@ layout: post
 title: "Submission Details"
 date: 2017-10-10
 description: "算法"
-tag: 算法  
+tag: Arithmetic
 
----   
+---
 ####Submission Details
 
 第5天  第11题

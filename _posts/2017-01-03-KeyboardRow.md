@@ -3,9 +3,9 @@ layout: post
 title: "Keyboard Row"
 date: 2017-10-10
 description: "算法"
-tag: 算法  
+tag: Arithmetic
 
----   
+---
 ###Keyboard Row
 第四天第7题
 #####题目

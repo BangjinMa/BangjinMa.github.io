@@ -3,9 +3,9 @@ layout: post
 title: "Reshape the Matrix"
 date: 2017-10-10
 description: "算法"
-tag: 算法  
+tag: Arithmetic
 
----   
+---
 #######代码
 想法一:在二维数组中，他的地址是有序、处于同一个内存空间的，{{1，2}，{3，4}}，在地址中表示相当与{1，2，3，4}。原想以这种方式来解决vector的重塑矩阵问题。
 

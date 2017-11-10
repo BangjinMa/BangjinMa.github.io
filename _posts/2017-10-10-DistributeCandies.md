@@ -3,9 +3,9 @@ layout: post
 title: "Distribute Candies"
 date: 2017-10-10
 description: "算法"
-tag: 算法  
+tag: Arithmetic
 
----   
+---
 #### Distribute Candies
 
 第5天 第10题

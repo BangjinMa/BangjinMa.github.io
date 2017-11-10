@@ -3,9 +3,9 @@ layout: post
 title: "Hamming Distance"
 date: 2017-10-10
 description: "算法"
-tag: 算法  
+tag: Arithmetic
 
----   
+---
 ### Hamming Distance
 
 根据位的运算计算得到：
