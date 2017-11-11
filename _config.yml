@@ -15,7 +15,9 @@ social:
     github: 
     # twitter: 
     mail:
-      
+ markdown: kramdown
+kramdown:
+  input: GFM
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
